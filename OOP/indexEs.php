@@ -1,3 +1,10 @@
+// =======================================================
+//  ESERCIZIO : Sistema di pagamento
+// Obiettivo: usare classi, ereditarietà e metodi personalizzati
+// =======================================================
+
+
+
 <?php
 
 class Pagamento {
