@@ -1,3 +1,6 @@
+
+-----------INFO--------------------------
+
 CLASSE:
 
     è una modellazione di un concetto del mondo reale
@@ -5,7 +8,34 @@ CLASSE:
     
         oggetti chiamati anche "istanze"
 
-    Necessita di costruttore della classe
+    Ho la necessità di costruttore della classe
 
 
 OGGETTO: richiamo la classe per costruire il nuovo oggetto 
+
+
+--------SPECIFICHE INDEX2.PHP----------------
+
+Abbiamo una classe genitore chiamata "Forma" con 2 Funzioni : area () e descrizione ();
+
+Voglio estendere altre 2 classi dalla classe genitore (forma)
+
+    -Cerchio
+    -Rettangolo
+
+
+
+------ESERCIZIO indexEs.php--------
+
+Sistema di pagamento
+Creare un piccolo programma PHP che simuli diversi metodi di pagamento, sfruttando una classe genitore e più classi figlie.
+
+
+
+------ESERCIZIO indexEs2.php--------
+
+Crea una classe Persona con nome e cognome, e due classi figlie Studente e Docente che ereditano da essa.
+Ogni classe deve avere un metodo presentati() personalizzato e un metodo aggiuntivo (studia() o spiega()) da richiamare nel programma principale.
+
+
+    
