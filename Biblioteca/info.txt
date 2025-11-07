@@ -10,7 +10,7 @@ Creare un'applicazione formata da
     -repo su github
     -inizializzate con git
     
-    -salvataggio sessione in coockies
+    -salvataggio sessione in cookies
 
 
 
