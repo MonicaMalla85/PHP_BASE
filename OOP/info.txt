@@ -1,0 +1,11 @@
+CLASSE:
+
+    è una modellazione di un concetto del mondo reale
+    Grazie alla classe costruisco 
+    
+        oggetti chiamati anche "istanze"
+
+    Necessita di costruttore della classe
+
+
+OGGETTO: richiamo la classe per costruire il nuovo oggetto 
