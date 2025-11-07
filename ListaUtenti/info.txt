@@ -8,3 +8,7 @@ Inoltre, deve essere presente un campo di ricerca tramite nome Utente, che verr√
 
 
 
+1) creare modello Classe
+2) 
+
+
